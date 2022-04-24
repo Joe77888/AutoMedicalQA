@@ -20,6 +20,7 @@ This module is a medical knowledge question answering system based on knowledge 
 Due to size limit, data and checkpoint cannot be uploaded to github. Thus, we will provide the google drive link for you to download. Download the data and ckeckpoint folder, place it in the right place. 
 data: https://drive.google.com/file/d/1pfOR1sC_eqCaoq6XlpJ0w8OUbVBMlGkV/view?usp=sharing
 checkpoint: https://drive.google.com/file/d/10Fo0x7F_Xe3SHJjZJgKojJs5w3jwplAF/view?usp=sharing
+```
 .
 ├── __pycache__
 │   ├── config.cpython-38.pyc
@@ -47,8 +48,8 @@ checkpoint: https://drive.google.com/file/d/10Fo0x7F_Xe3SHJjZJgKojJs5w3jwplAF/vi
 ├── readme.md
 ├── requirements.txt
 ├── train_data_generate.py
-└── train_model.py
-
+└── train_model.py 
+```
 #### 1. Build graph 
 Installing **Neo4j** and **Py2neo**. Adding the username and password of the neo4j database to config.py. Run build_graph.py to build knowledge graph in Neo4j. This script also extracts all the entities and save them in the *dict* folder.   
 
