@@ -14,6 +14,7 @@ This module is a medical knowledge question answering system based on knowledge 
 - tqdm==4.62.2
 - transformers==4.10.0
 
+
 ## How to use
 
 #### 0. Download data/checkpoint
