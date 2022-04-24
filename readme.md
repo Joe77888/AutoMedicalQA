@@ -17,7 +17,7 @@ This module is a medical knowledge question answering system based on knowledge 
 ## How to use
 
 #### 0. Download data/checkpoint
-Due to size limit, data and checkpoint cannot be uploaded to github. Thus, we will provide the google drive link for you to download. Download the data and ckeckpoint folder, place it in the right place. 
+Due to size limit, data and checkpoint cannot be uploaded to github. Thus, we will provide the google drive link for you to download. Download the data and ckeckpoint folder, place it in the right place.<br>
 data: https://drive.google.com/file/d/1pfOR1sC_eqCaoq6XlpJ0w8OUbVBMlGkV/view?usp=sharing<br>
 checkpoint: https://drive.google.com/file/d/10Fo0x7F_Xe3SHJjZJgKojJs5w3jwplAF/view?usp=sharing
 ```
